@@ -1,0 +1,16 @@
+
+
+#edit, #create {
+  padding-bottom: 30px;
+margin: 0 300px;
+
+}
+    h1 {
+      text-align: center;
+    }
+  
+    .msg {
+      text-align: right;
+      font-size: 12px;
+      color: #999;
+    }
